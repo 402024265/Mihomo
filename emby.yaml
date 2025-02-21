@@ -1,0 +1,30 @@
+# NAME: Emby
+# AUTHOR: justdoiting
+# REPO: https://github.com/justdoiting/emby-rules
+
+DOMAIN,cf.bili.rip
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
+DOMAIN-SUFFIX,as174.de
+DOMAIN-SUFFIX,bili.rip
+DOMAIN-SUFFIX,aikan.la
+DOMAIN-SUFFIX,aikan.cloud
+DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,bangumi.ca
+DOMAIN-SUFFIX,mius.uk
+DOMAIN-SUFFIX,nijigem.by
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,tanhuatv.site
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,cf.xmsl.org
+DOMAIN-KEYWORD,emby
+DOMAIN-KEYWORD,emby.wtf
+DOMAIN-KEYWORD,term.wtf
+DOMAIN-KEYWORD,xmsl.org
+DOMAIN-KEYWORD,as174.de
+DOMAIN-KEYWORD,aikan
+DOMAIN-KEYWORD,mius.uk
+DOMAIN-KEYWORD,jmsooo
+DOMAIN-KEYWORD,odysseyplus
